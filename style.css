@@ -1,0 +1,22 @@
+body{
+    font-size: x-large;
+}
+.container{
+    width:700px;
+    background: blueviolet;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    align-self: center;
+    border-radius: 5%;
+}
+
+button{
+    font-size: large;
+    background: blue;
+    color: white;
+    outline: none;
+    align-self: center; 
+}
